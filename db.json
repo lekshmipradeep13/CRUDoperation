@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "anna",
+      "lastName": "joseph",
+      "email": "anna@gmail.com",
+      "mobile": "2345678096",
+      "salary": "34000"
+    },
+    {
+      "id": 2,
+      "firstName": "devika",
+      "lastName": "das",
+      "email": "devika@gmail.com",
+      "mobile": "9567892347",
+      "salary": "50000"
+    },
+    {
+      "id": 3,
+      "firstName": "fitha",
+      "lastName": "m",
+      "email": "fitha@gmail.com",
+      "mobile": "7689543560",
+      "salary": "6000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
